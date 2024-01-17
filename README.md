@@ -33,3 +33,4 @@ The Myntra Clone React Project is a web application that replicates the user int
 - JavaScript
 
 ## Getting Started
+![GitHub Logo](https://github.com/Kumar-AyushD/Myntra-clone-react/blob/main/img.png)
