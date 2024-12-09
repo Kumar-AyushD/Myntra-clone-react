@@ -11,7 +11,7 @@ import myntraStore from "./store/index.js";
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/", 
     element: <App />,
     children: [
       { path: "/", element: <Home /> },
